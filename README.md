@@ -1,3 +1,4 @@
-# Проект в рамках "Школа IT Решений" команды "ITea".
+# Проект в рамках "Школа IT Решений 2019-2020"(ноябрь-март) команды "ITea".
 ## "Умные карты. MVP дизайна"
-![Alt](https://github.com/Alexx221x/ITea_project/blob/master/screen1.png?raw=true)![Alt](https://github.com/Alexx221x/ITea_project/blob/master/screen2.png?raw=true)
+### ![Презентация](https://drive.google.com/file/d/1UWBeMT7iDTzPbJVndKoqoMKICBtbobwi/view?usp=sharing)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
